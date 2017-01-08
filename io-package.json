@@ -24,7 +24,6 @@
       "home automation"
     ],
     "enabled": false,
-    "nondeletable": true,
     "type": "hardware"
   },
   "native": {
