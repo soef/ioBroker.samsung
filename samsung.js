@@ -245,7 +245,7 @@ function createObjectsAndStates() {
     adapter.setObjectNotExists(powerOnOffState, {
         type: 'state',
         common: {
-            name: 'Teterminates Power state',
+            name: 'Determinates Power state',
             type: 'string',
             role: 'state',
             desc: "checks if powered or not. Can be set to any value (ack=false). If ack becomes true, val holds the status"
